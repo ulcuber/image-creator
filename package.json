@@ -1,0 +1,22 @@
+{
+  "name": "image-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulcuber/image-creator.git"
+  },
+  "keywords": [
+    "canvas"
+  ],
+  "author": "victor17011998@yandex.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulcuber/image-creator/issues"
+  },
+  "homepage": "https://github.com/ulcuber/image-creator#readme"
+}
