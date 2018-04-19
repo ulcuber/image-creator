@@ -1,4 +1,4 @@
-export default class {
+export class Polygon {
   constructor(context) {
     this.context = context
     this.shadow = false

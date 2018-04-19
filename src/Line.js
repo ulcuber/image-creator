@@ -1,4 +1,4 @@
-export default class {
+export class Line {
   constructor(context) {
     this.context = context
   }

@@ -1,5 +1,4 @@
-import Line from './src/Line'
-import Polygon from './src/Polygon'
+import { Line, Polygon } from './'
 
 export default class {
   constructor(context) {
