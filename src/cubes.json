@@ -47,6 +47,8 @@
 "3ll": {
 "width": 752,
 "height": 752,
+"square": 160,
+"k": 80,
 "color": "#111111",
 "colors": {
 "w": "#ffffff",
@@ -91,6 +93,7 @@
 "2": {
 "width": 533,
 "height": 533,
+"square": 165,
 "color": "#111111",
 "colors": {
 "w": "#ffffff",
@@ -121,6 +124,7 @@
 "2ll": {
 "width": 593,
 "height": 593,
+"k": 80,
 "color": "#111111",
 "colors": {
 "w": "#ffffff",
@@ -198,6 +202,7 @@
 "sq1ll": {
 "width": 752,
 "height": 752,
+"k": 0,
 "color": "#111111",
 "colors": {
 "w": "#ffffff",

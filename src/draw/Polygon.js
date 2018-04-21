@@ -5,18 +5,21 @@ export class Polygon {
   }
   setHeight(height) {
     this.height = height
+    return this
   }
   setWidth(width) {
     this.width = width
+    return this
   }
   withShadow(shadow = true) {
     this.shadow = shadow
+    return this
   }
   draw(points) {
-    if(points.length == 2) {
+    if(points.length === 2) {
       this.context.fillRect(points[0], points[1], this.height, this.width)
     } else {
-      if(points.length == 4) {
+      if(points.length === 4) {
         this.context.fillRect(points[0], points[1], points[2], points[3])
       } else {
         this.context.beginPath()
